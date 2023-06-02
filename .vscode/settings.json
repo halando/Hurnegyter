@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+        
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\diak\\andoattila\\Library\\TestNG\\jcommander-1.82.jar",
+        "c:\\Users\\diak\\andoattila\\Library\\TestNG\\slf4j-api-2.0.7.jar",
+        "c:\\Users\\diak\\andoattila\\Library\\TestNG\\testng-7.8.0.jar",
+        "c:\\Users\\diak\\andoattila\\Library\\TestNG\\slf4j-simple-2.0.7.jar"
+    ]
+}

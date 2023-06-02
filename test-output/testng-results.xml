@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-02T15:11:41 CEST" name="Suite1" finished-at="2023-06-02T15:11:41 CEST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2023-06-02T15:11:41 CEST" name="test1" finished-at="2023-06-02T15:11:41 CEST" duration-ms="49">
+      <class name="HurTest">
+        <test-method is-config="true" signature="testInit()[pri:0, instance:HurTest@525f1e4e]" started-at="2023-06-02T15:11:41 CEST" name="testInit" finished-at="2023-06-02T15:11:41 CEST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit -->
+        <test-method signature="testCalcAreaFirst()[pri:0, instance:HurTest@525f1e4e]" started-at="2023-06-02T15:11:41 CEST" name="testCalcAreaFirst" finished-at="2023-06-02T15:11:41 CEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalcAreaFirst -->
+        <test-method signature="testCalcAreaSecond()[pri:0, instance:HurTest@525f1e4e]" started-at="2023-06-02T15:11:41 CEST" name="testCalcAreaSecond" finished-at="2023-06-02T15:11:41 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalcAreaSecond -->
+        <test-method signature="testCalcBadInput1()[pri:0, instance:HurTest@525f1e4e]" started-at="2023-06-02T15:11:41 CEST" name="testCalcBadInput1" finished-at="2023-06-02T15:11:41 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalcBadInput1 -->
+        <test-method signature="testCalcBadInput2()[pri:0, instance:HurTest@525f1e4e]" started-at="2023-06-02T15:11:41 CEST" name="testCalcBadInput2" finished-at="2023-06-02T15:11:41 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalcBadInput2 -->
+        <test-method signature="testCalcBadInput3()[pri:0, instance:HurTest@525f1e4e]" started-at="2023-06-02T15:11:41 CEST" name="testCalcBadInput3" finished-at="2023-06-02T15:11:41 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalcBadInput3 -->
+        <test-method signature="testCalcBadInput4()[pri:0, instance:HurTest@525f1e4e]" started-at="2023-06-02T15:11:41 CEST" name="testCalcBadInput4" finished-at="2023-06-02T15:11:41 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalcBadInput4 -->
+      </class> <!-- HurTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
